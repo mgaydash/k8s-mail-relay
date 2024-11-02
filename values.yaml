@@ -1,6 +1,6 @@
 config:
   general:
-    ALLOWED_SENDER_DOMAINS: dataforma.com
+    ALLOWED_SENDER_DOMAINS: mgaydash.com
     RELAYHOST:
     RELAYHOST_PASSWORD:
     RELAYHOST_USERNAME:
